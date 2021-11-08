@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+.heading{
+    background-color: orange;
+    margin: 0px;
+    width: 100%;
+}
+#status{
+ background-color: orange;
+ color: white;
+}
